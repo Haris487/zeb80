@@ -1,0 +1,19 @@
+v1.0.2
++ Update - One more overlay style for sections
++ Fix - Minor CSS styling issues
+
+v1.0.1
++ Fix - Max popups hidth and hight to fit smaller screens
++ Fix - Youtube element URL field
++ Fix - TinyMCE popups proper z-index
++ Fix - Draging element placeholder
++ Fix - Dividers from other tabs shown on first one
++ Fix - Element children order number on delete an sorting
++ Fix - Progress Bar Vertical can be shown countless times on the same page
++ Fix - Post Excerpts showing properly
++ Fix - Nivo Slider is now saving properly
++ Fix - Minor CSS styling issues
++ Update - Image Masonry lightbox grouped by each element
+
+v1.0.0
+Initial release
